@@ -3,16 +3,11 @@
 ## IoT Flask Web (github, vs code)
 
 ### Step 1 : 初始化
-1. Please install vs code, register github, install git for windows
-2. (check-point 1) github create a new repository (aiot0524)
-3. go to vs code clone this repository (choose new branch) 
-4. vs code 安裝 python extension 
-5. pip install flask, pandas, sklearn 
-  * 快捷鍵 ctrl+shift+p ===> package manager 叫出 (git clone....)
-  * 快捷鍵 ctrl+' ==> 叫出終端機 
-6. (check-point 2) 為了要upload local file to github from local要終端機 C:> 設定下面 (不設定 branch default ='main')
-   * C:> git config --global user.name "Huan Chen"
-   * C:> git config --global user.email huanchen1107@gmail.com
+1. 使用 vs code, github, git
+2. 創建自己 github 的 repository (目前的頁面)
+3. clone 老師的 github 
+6. 安裝需要的套件(pip install flask, pandas, sklearn )
+7. 在 vs code 中登入自己的  github
 
 
 
