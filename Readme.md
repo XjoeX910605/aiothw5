@@ -1,6 +1,6 @@
-# Huan Chen's Homework #5 (complete)
+# Homework #5 (complete)
 
-## Lecture 14: IoT Flask Web (github, vs code)
+## IoT Flask Web (github)
 
 ### Step 1 : Development Environment Setup
 1. Please install vs code, register github, install git for windows
